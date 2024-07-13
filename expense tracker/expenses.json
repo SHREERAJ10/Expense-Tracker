@@ -1,0 +1,12 @@
+[
+    {
+        "Item": "The Hunger Games Book",
+        "Amount": "$99",
+        "Description": "To read novel"
+    },
+    {
+        "Item": "Casio Calculator",
+        "Amount": "$30",
+        "Description": "For Math Exam"
+    }
+]
